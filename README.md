@@ -2,7 +2,7 @@
 <h3>About the Game</h3>
 This a simple memory game created with React. The purpose of this app to practice how an application's UI is broken up into components, managing component state, and responding to user events.
 
-How it works
+<h3>How it works</h3>
 The application renders a dozen different images of differnt wild animals to the screen.
 
 When the user clicks on an image, the user gets points and the images are shuffled. The the user is asked to click on an image only once. 
@@ -13,9 +13,10 @@ If the user clicks on an image they're already clicked on in the current round, 
 
 The application keeps track of the users Best Score, and updates it when the user achieves a new Best Score.
 
-Technologies Leveraged
-HTML
-CSS
-JavaScript
-Node.js
-React
+<h3>Technologies Used</h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Node.js</li>
+<li>React</li></ul>
