@@ -1,5 +1,5 @@
-Clicky Game
-About the Game
+<h1>Clicky Game<h1>
+<h3>About the Game</h3>
 This a simple memory game created with React. The purpose of this app to practice how an application's UI is broken up into components, managing component state, and responding to user events.
 
 How it works
